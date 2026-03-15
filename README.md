@@ -1,5 +1,7 @@
 # masaoka_shiki
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 This is an open source project for Masaoka Shiki's haiku poems, sourced from the City of Matsuyama, Ehime.
 
 ## Features
