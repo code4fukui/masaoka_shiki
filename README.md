@@ -12,4 +12,4 @@ This is an open source project for Masaoka Shiki's haiku poems, sourced from the
 The haiku data is obtained from the open data portal of the City of Matsuyama, Ehime. The data is licensed under CC-BY.
 
 ## License
-This project is licensed under the MIT License.
+MIT License — see [LICENSE](LICENSE).
